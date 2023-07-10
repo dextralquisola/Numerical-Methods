@@ -1,16 +1,12 @@
-# numerical_project
+# Numerical Methods
 
-A new Flutter project.
+A mobile application for computing numerical methods with different methods
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+* Bisection
+* False Position
+* Newton Raphson
+* Secant
+* IEEE 754
+* Jacobi
+* Built-in calculator for computing pre-made formula
